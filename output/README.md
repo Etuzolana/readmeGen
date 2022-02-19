@@ -1,21 +1,21 @@
-# readme generator
+# eddy
 
 ## Description
 
-make read me from terminal
+good read me
 
 ## Install
 
-from node.js help
+with node
 
 ## Resource
 
-to make a robot work for you
+software
 
 ## Developer
 
-Eddy Tuzolana
+eddy T
 
 ## Contribution
 
-Lee Brian
+Lot Phil
